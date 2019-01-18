@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. I ___ come if I had had time.</question>
+        <answer>have</answer>
+        <answer>had</answer>
+        <answer>would have</answer>
+        <answer>did</answer>
+        <correct>would have</correct>
+    </item>
+    <item>
+        <question>2. He ___ silly things like this. Take no notice now.</question>
+        <answer>always did</answer>
+        <answer>will always do</answer>
+        <answer>has always done</answer>
+        <answer>is always doing</answer>
+        <correct>is always doing</correct>
+    </item>
+    <item>
+        <question>3. Don't worry even if you make a mistake because if you ___, it doesn't matter.</question>
+        <answer>were doing</answer>
+        <answer>had done</answer>
+        <answer>do</answer>
+        <answer>will do</answer>
+        <correct>do</correct>
+    </item>
+    <item>
+        <question>4. The man who ___ walking down the road just then, lives next door.</question>
+        <answer>is</answer>
+        <answer>will be</answer>
+        <answer>was</answer>
+        <answer>has been</answer>
+        <correct>was</correct>
+    </item>
+    <item>
+        <question>5. After the storm ___ finished, many people were found lying in the street.</question>
+        <answer>has</answer>
+        <answer>had</answer>
+        <answer>were</answer>
+        <answer>did</answer>
+        <correct>had</correct>
+    </item>
+    <item>
+        <question>6. Where did you ___ for your holiday in the end?</question>
+        <answer>went</answer>
+        <answer>gone</answer>
+        <answer>go</answer>
+        <answer>going</answer>
+        <correct>go</correct>
+    </item>
+    <item>
+        <question>7. If I get there early enough, I ___ you a seat.</question>
+        <answer>did save</answer>
+        <answer>do save</answer>
+        <answer>am saving</answer>
+        <answer>shall save</answer>
+        <correct>shall save</correct>
+    </item>
+    <item>
+        <question>8. She was annoyed that she ___ spoken to like that.</question>
+        <answer>had been</answer>
+        <answer>has been</answer>
+        <answer>was been</answer>
+        <answer>will have been</answer>
+        <correct>had been</correct>
+    </item>
+    <item>
+        <question>9. When I'm in town, I ___ listening to the birds.</question>
+        <answer>missing</answer>
+        <answer>miss</answer>
+        <answer>misses</answer>
+        <answer>misses</answer>
+        <correct>miss</correct>
+    </item>
+    <item>
+        <question>10. I had instructions that I ___ to leave the door unlocked when I came home.</question>
+        <answer>will being</answer>
+        <answer>were</answer>
+        <answer>am</answer>
+        <answer>was</answer>
+        <correct>was</correct>
+    </item>
+</items>

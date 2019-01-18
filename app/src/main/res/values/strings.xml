@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tests</string>
+
+    <string name="button">Button</string>
+    <string name="buttonAnswer4">Button</string>
+    <string name="title_activity_project">ProjectActivity</string>
+    <string name="strAbout">About authors</string>
+    <string name="strcpp">C++</string>
+    <string name="strjava">Java</string>
+
+    <string name="about_title">О программе</string>
+    <string name="about_authors">
+        <b>Диана Волкова</b>\n\n
+        email: dia.the.ghost@gmail.com\n\n
+    </string>
+    <string name="youtube">
+        <a href="https://www.youtube.com/channel/UCrmizq6r7j87E_hi0uydRgQ">https://www.youtube.com/channel/UCrmizq6r7j87E_hi0uydRgQ</a>
+    </string>
+    <string name="vk">
+        <a href="https://vk.com/id152255682">https://vk.com/id152255682</a>
+    </string>
+    <string name="english">Verbs</string>
+    <string name="Verbs">Verbs 2</string>
+    <string name="PresPerfPastSimple">Present Perfect or Past Simple</string>
+    <string name="PresSimplePresCont">Present Simple or Present Continious</string>
+    <string name="PresSimplePastSimple">Present Simple or Past Simple</string>
+    <string name="answer">answer</string>
+
+
+    <string-array name="btn_names">
+        <item name = "j">j.xml</item>
+        <item name = "q">q.xml</item>
+        <item name = "v">v.xml</item>
+        <item name = "v1">v1.xml</item>
+        <item name = "intermadiate">intermadiate.xml</item>
+    </string-array>
+</resources>

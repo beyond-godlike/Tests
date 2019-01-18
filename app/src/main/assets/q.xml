@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>Какой из перечисленных типов данных не является типом данных в С++?</question>
+        <answer>float</answer>
+        <answer>double</answer>
+        <answer>int</answer>
+        <answer>real</answer>
+        <correct>real</correct>
+    </item>
+    <item>
+        <question> Какая из следующих записей - правильный комментарий в С++?</question>
+        <answer>{комментарий}</answer>
+        <answer>/* комментарий */</answer>
+        <answer>*/ Комментарии */</answer>
+        <answer>** Комментарий **</answer>
+        <correct>/* комментарий */</correct>
+    </item>
+    <item>
+        <question>Какую функцию должны содержать все программы на С++?</question>
+        <answer>system()</answer>
+        <answer>main()</answer>
+        <answer>program()</answer>
+        <answer>start()</answer>
+        <correct>main()</correct>
+    </item>
+    <item>
+        <question>Простые типы данных в С++.</question>
+        <answer>целые – int, вещественные – float или double, символьные – char</answer>
+        <answer>целые – int, вещественные – float или double, символьные – string</answer>
+        <answer>целые – int, вещественные – float или real, символьные – char</answer>
+        <answer>целые – bool, вещественные – float или double, символьные – string</answer>
+        <correct>целые – int, вещественные – float или double, символьные – char</correct>
+    </item>
+    <item>
+        <question>В каком случае лучше всего использовать приведение типов данных?</question>
+        <answer>чтобы изменить тип возвращаемого значения функции</answer>
+        <answer>при делении двух целых чисел, для того, чтобы вернуть результат с плавающей точкой</answer>
+        <answer>чтобы разрешить программе использовать только целые числа</answer>
+        <answer>во всех выше указанных случаях</answer>
+        <correct>во всех выше указанных случаях</correct>
+    </item>
+    <item>
+        <question>Какое ключевое слово указывает, что целая переменная не может принимать отрицательные значения?</question>
+        <answer>unsigned</answer>
+        <answer>private</answer>
+        <answer>const</answer>
+        <answer>отстаньте от меня, я хочу спать</answer>
+        <correct>unsigned</correct>
+    </item>
+    <item>
+        <question>Какую функцию должны содержать все программы на С++?</question>
+        <answer>system()</answer>
+        <answer>main()</answer>
+        <answer>program()</answer>
+        <answer>start()</answer>
+        <correct>main()</correct>
+    </item>
+    <item>
+        <question>Какую функцию должны содержать все программы на С++?</question>
+        <answer>system()</answer>
+        <answer>main()</answer>
+        <answer>program()</answer>
+        <answer>start()</answer>
+        <correct>main()</correct>
+    </item>
+</items>

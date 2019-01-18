@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. Найдите в списке вторую и третью форму глагола "pay"</question>
+        <answer>paid / paid</answer>
+        <answer> hid / hidden</answer>
+        <answer>put / put</answer>
+        <answer>drove / driven</answer>
+        <correct>paid / paid</correct>
+    </item>
+    <item>
+        <question>2. Найдите в списке вторую и третью форму глагола "begin"</question>
+        <answer>woke / woken</answer>
+        <answer>spent / spent</answer>
+        <answer>began / begun</answer>
+        <answer>got / got</answer>
+        <correct>began / begun</correct>
+    </item>
+    <item>
+        <question>3. Найдите в списке вторую и третью форму глагола "read"</question>
+        <answer>read / read</answer>
+        <answer>lost / lost</answer>
+        <answer>sat / sat</answer>
+        <answer>felt / felt</answer>
+        <correct>read / read</correct>
+    </item>
+    <item>
+        <question>4. Найдите в списке вторую и третью форму глагола "drive"</question>
+        <answer>lost / lost</answer>
+        <answer>fell / fallen</answer>
+        <answer>lay / lain</answer>
+        <answer>drove / driven</answer>
+        <correct>drove / driven</correct>
+    </item>
+    <item>
+        <question>5. Найдите в списке вторую и третью форму глагола "fly"</question>
+        <answer>brought / brought</answer>
+        <answer>rang / rung</answer>
+        <answer>flew / flown</answer>
+        <answer>began / begun</answer>
+        <correct>flew / flown</correct>
+    </item>
+    <item>
+        <question>6. Найдите в списке вторую и третью форму глагола "ring"</question>
+        <answer>rang / rung</answer>
+        <answer>spoke / spoken</answer>
+        <answer>woke / woken</answer>
+        <answer>wrote / written</answer>
+        <correct>rang / rung</correct>
+    </item>
+    <item>
+        <question>7. Найдите в списке вторую и третью форму глагола "fall"</question>
+        <answer>broke / broken</answer>
+        <answer>put / put</answer>
+        <answer>began / begun</answer>
+        <answer>fell / fallen</answer>
+        <correct>fell / fallen</correct>
+    </item>
+    <item>
+        <question>8. Найдите в списке вторую и третью форму глагола "hurt"</question>
+        <answer>spent / spent</answer>
+        <answer>fell / fallen</answer>
+        <answer>spoke / spoken</answer>
+        <answer>hurt / hurt</answer>
+        <correct>hurt / hurt</correct>
+    </item>
+    <item>
+        <question>9. Найдите в списке вторую и третью форму глагола "take"</question>
+        <answer>took / taken</answer>
+        <answer>hung / hung</answer>
+        <answer>cut / cut</answer>
+        <answer>caught / caught</answer>
+        <correct>took / taken</correct>
+    </item>
+    <item>
+        <question>10. Найдите в списке вторую и третью форму глагола "eat"</question>
+        <answer>took / taken</answer>
+        <answer>ate / eaten</answer>
+        <answer>ran / run</answer>
+        <answer>fought / fought</answer>
+        <correct>ate / eaten</correct>
+    </item>
+</items>

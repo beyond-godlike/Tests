@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>Какого типа данных нет в java?</question>
+        <answer>int</answer>
+        <answer>double</answer>
+        <answer>short</answer>
+        <answer>real</answer>
+        <correct>real</correct>
+    </item>
+    <item>
+        <question>Какой вариант ответа неправильный?</question>
+        <answer>true &#38;&#38; true = true</answer>
+        <answer>false &#38;&#38; false = false</answer>
+        <answer>true &#38;&#38; false = false</answer>
+        <answer>false &#38;&#38; true = true</answer>
+        <correct>false &#38;&#38; true = true</correct>
+    </item>
+    <item>
+        <question>Какой идентификатор доступа в java по умолчанию?</question>
+        <answer>public</answer>
+        <answer>private</answer>
+        <answer>protected</answer>
+        <answer>package</answer>
+        <correct>package</correct>
+    </item>
+    <item>
+        <question>В каком из вариантов ошибка?</question>
+        <answer>String str = null;</answer>
+        <answer>int i = null;</answer>
+        <answer>String str = (String)null;</answer>
+        <answer>System.out.println(null == null);</answer>
+        <correct>int i = null;</correct>
+    </item>
+    <item>
+        <question>Какой модификатор сообщает, что не нужно создавать объект класса?</question>
+        <answer>static</answer>
+        <answer>public</answer>
+        <answer>void</answer>
+        <answer>final</answer>
+        <correct>static</correct>
+    </item>
+    <item>
+        <question>Для чего используется super()?</question>
+        <answer>для вызова конструктора по умолчанию</answer>
+        <answer>для вызова конструктора базового класса</answer>
+        <answer>для вызова конструктора вложнного класса</answer>
+        <answer>для создания анонимного класса</answer>
+        <correct>для вызова конструктора базового класса</correct>
+    </item>
+    <item>
+        <question>Какой из этих принципов не принадлежит принципам ООП?</question>
+        <answer>абстрагирование</answer>
+        <answer>полиморфизм</answer>
+        <answer>наследование</answer>
+        <answer>перегрузка</answer>
+        <correct>перегрузка</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов неправильный?</question>
+        <answer>у абстрактных классов нет конструктора</answer>
+        <answer>невозможно создать экземпляр абстрактного класса напрямую</answer>
+        <answer>экземпляр абстрактного класса не создается при вызове конструктора производного класса</answer>
+        <answer>все абстрактные методы нужно реализовать в конкретном производном классе</answer>
+        <correct>экземпляр абстрактного класса не создается при вызове конструктора производного класса</correct>
+    </item>
+    <item>
+        <question>Какое из утверждений не верно?</question>
+        <answer>Интерфейс это аналог чистого абстрактного класса</answer>
+        <answer>Интерфейс может иметь только абстрактные методы</answer>
+        <answer>Интерфейс не может наследоваться от интерфейсов</answer>
+        <answer>Члены интерфейса всегда открытые абстрактные и не могут иметь модификаторов доступа</answer>
+        <correct>Интерфейс не может наследоваться от интерфейсов</correct>
+    </item>
+    <item>
+        <question>Какой из этих методов добавляет элемент в ArrayList &#60;E&#62;?</question>
+        <answer>add(E element);</answer>
+        <answer>remove(E element);</answer>
+        <answer>clear();</answer>
+        <answer>set(int index, E element)</answer>
+        <correct>add(E element);</correct>
+    </item>
+    <item>
+        <question>Какое из утверждений ложно?</question>
+        <answer>статический конструктор не принимает параметров</answer>
+        <answer>статический конструктор можно вызвать напрямую</answer>
+        <answer>статические методы не могут обращаться к не статическим полям</answer>
+        <answer>статический блок вызывается до вызова конструктора класса</answer>
+        <correct>статический конструктор можно вызвать напрямую</correct>
+    </item>
+    <item>
+        <question>В каких случаях удобно использовать анонимные классы?</question>
+        <answer>когда класс используется всего один раз</answer>
+        <answer>когда нехватает памяти для создания имени класса</answer>
+        <answer>всегда</answer>
+        <answer>когда класс нужно скрыть</answer>
+        <correct>когда класс используется всего один раз</correct>
+    </item>
+    <item>
+        <question>Какие из методов суперкласса Object нужно перегружать?</question>
+        <answer>toString();</answer>
+        <answer>hashCode();</answer>
+        <answer>equals();</answer>
+        <answer>getClass();</answer>
+        <correct>getClass();</correct>
+    </item>
+    <item>
+        <question>final используется для того чтобы?</question>
+        <answer>запретить наследование класса</answer>
+        <answer>запретить изменение полей класса</answer>
+        <answer>запретить переопределение методов</answer>
+        <answer>все вышеперечисленное</answer>
+        <correct>все вышеперечисленное</correct>
+    </item>
+    <item>
+        <question>Какой вариант неправильный?</question>
+        <answer>native используется только для методов</answer>
+        <answer>native сообщает, что метод написан на java</answer>
+        <answer>в native метод можно передавать объекты</answer>
+        <answer>native метод может возвращать объекты</answer>
+        <correct>native сообщает, что метод написан на java</correct>
+    </item>
+    <item>
+        <question>Дженерики в java</question>
+        <answer>ковариантны</answer>
+        <answer>инвариантны</answer>
+        <answer>абстрактны</answer>
+        <answer>статичны</answer>
+        <correct>инвариантны</correct>
+    </item>
+    <item>
+        <question>Какого паттерна не существует?</question>
+        <answer>Bridge</answer>
+        <answer>Singleton</answer>
+        <answer>Decorator</answer>
+        <answer>Rabbit</answer>
+        <correct>Rabbit</correct>
+    </item>
+    <item>
+        <question>Какой из паттернов гарантирует контролируемый доступ к единственному экземпляру</question>
+        <answer>Composite</answer>
+        <answer>Mediator</answer>
+        <answer>Singleton</answer>
+        <answer>MVC</answer>
+        <correct>Singleton</correct>
+    </item>
+    <item>
+        <question>Что делает следующий код?\n\r arrayList.stream().filter(s->s.startsWith("b").forEach(System.out::println);)</question>
+        <answer>выводит элементы списка, которые начинаются с "b"</answer>
+        <answer>сортирует элементы списка и выводит их</answer>
+        <answer>удаляет элементы списка, которые начинаются с "b" и выводит остальные</answer>
+        <answer>создает массив s и вносит в него элементы из arrayList, которые начинаются на "b"</answer>
+        <correct>выводит элементы списка, которые начинаются с "b"</correct>
+    </item>
+    <item>
+        <question>У какого интерфейса есть метод mouseDragged()?</question>
+        <answer>MouseMotionListener</answer>
+        <answer>KeyListener</answer>
+        <answer>ActionListener</answer>
+        <answer>ComponentListener</answer>
+        <correct>MouseMotionListener</correct>
+    </item>
+    <item>
+        <question>Какое из методов запускает поток?</question>
+        <answer>run();</answer>
+        <answer>start();</answer>
+        <answer>sleep();</answer>
+        <answer>yield();</answer>
+        <correct>start();</correct>
+    </item>
+</items>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>Какой из вариантов глагола "учить" не существует?</question>
+        <answer>teach</answer>
+        <answer>taught</answer>
+        <answer>tought</answer>
+        <answer>taught</answer>
+        <correct>tought</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "рвать" не существует?</question>
+        <answer>tear</answer>
+        <answer>tore</answer>
+        <answer>torn</answer>
+        <answer>toarn</answer>
+        <correct>toarn</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "рассказывать" не существует?</question>
+        <answer>tollen</answer>
+        <answer>tell</answer>
+        <answer>told</answer>
+        <answer>told</answer>
+        <correct>tollen</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "думать" не существует?</question>
+        <answer>think</answer>
+        <answer>thout</answer>
+        <answer>thought</answer>
+        <answer>thought</answer>
+        <correct>thout</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "бросить" не существует?</question>
+        <answer>thrown</answer>
+        <answer>throw</answer>
+        <answer>threw</answer>
+        <answer>throught</answer>
+        <correct>throught</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "понимать" не существует?</question>
+        <answer>understand</answer>
+        <answer>understeed</answer>
+        <answer>understood</answer>
+        <answer>understood</answer>
+        <correct>understeed</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "просыпаться" не существует?</question>
+        <answer>wake</answer>
+        <answer>woke</answer>
+        <answer>wauke</answer>
+        <answer>woken</answer>
+        <correct>wauke</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "побеждать" не существует?</question>
+        <answer>ween</answer>
+        <answer>win</answer>
+        <answer>won</answer>
+        <answer>won</answer>
+        <correct>ween</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "носить" не существует?</question>
+        <answer>wear</answer>
+        <answer>wore</answer>
+        <answer>worn</answer>
+        <answer>wearn</answer>
+        <correct>wearn</correct>
+    </item>
+    <item>
+        <question>Какой из вариантов глагола "писать" не существует?</question>
+        <answer>wrote</answer>
+        <answer>written</answer>
+        <answer>write</answer>
+        <answer>wreete</answer>
+        <correct>wreete</correct>
+    </item>
+</items>

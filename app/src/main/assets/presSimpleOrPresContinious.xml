@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. They … for us near the door.</question>
+        <answer>are waiting</answer>
+        <answer>waits</answer>
+        <answer>is waiting</answer>
+        <answer>am waiting</answer>
+        <correct>are waiting</correct>
+    </item>
+    <item>
+        <question>2. Harry … television every day.</question>
+        <answer>is watching</answer>
+        <answer>watch</answer>
+        <answer>watches</answer>
+        <answer>are watching</answer>
+        <correct>watches</correct>
+    </item>
+    <item>
+        <question>3. What … in the room now? </question>
+        <answer>they are doing</answer>
+        <answer>are they doing</answer>
+        <answer>do they do</answer>
+        <answer>they do</answer>
+        <correct>are they doing</correct>
+    </item>
+    <item>
+        <question>4. Ann … French at all.</question>
+        <answer>isn’t speaking</answer>
+        <answer>not speaks</answer>
+        <answer>doesn’t speaking</answer>
+        <answer>doesn’t speak</answer>
+        <correct>doesn’t speak</correct>
+    </item>
+    <item>
+        <question>5. Mr. Scott … German to Ann at the moment.</question>
+        <answer>speaks</answer>
+        <answer>is speaking</answer>
+        <answer>are speaking</answer>
+        <answer>speaking</answer>
+        <correct>is speaking</correct>
+    </item>
+    <item>
+        <question>6. I am busy now. I … to the radio.</question>
+        <answer>am listening</answer>
+        <answer>listen</answer>
+        <answer>am listen</answer>
+        <answer>listening</answer>
+        <correct>am listening</correct>
+    </item>
+    <item>
+        <question>7. They … to the seaside every summer.</question>
+        <answer>are going</answer>
+        <answer>goes</answer>
+        <answer>go</answer>
+        <answer>is going</answer>
+        <correct>go</correct>
+    </item>
+    <item>
+        <question>8. No, I … the newspaper at the moment.</question>
+        <answer>am not reading</answer>
+        <answer>don’t read</answer>
+        <answer>don’t reading</answer>
+        <answer>amnt reading</answer>
+        <correct>am not reading</correct>
+    </item>
+    <item>
+        <question>9. No, she … in this house.</question>
+        <answer>isn’t live</answer>
+        <answer>don’t live</answer>
+        <answer>doesn't live</answer>
+        <answer>lives not</answer>
+        <correct>doesn't live</correct>
+    </item>
+    <item>
+        <question>10. Where … he is from?</question>
+        <answer>are you thinking</answer>
+        <answer>do you think</answer>
+        <answer>are you think</answer>
+        <answer>you don’t think</answer>
+        <correct>do you think</correct>
+    </item>
+</items>

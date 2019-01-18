@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. Harry never … to work by bus.</question>
+        <answer>go</answer>
+        <answer>do goes</answer>
+        <answer>does</answer>
+        <answer>goes</answer>
+        <correct>goes</correct>
+    </item>
+    <item>
+        <question>2. She … chocolate.</question>
+        <answer>likes not</answer>
+        <answer>not like</answer>
+        <answer>don’t like</answer>
+        <answer>doesn’t like</answer>
+        <correct>doesn’t like</correct>
+    </item>
+    <item>
+        <question>3. We always … to bed early.</question>
+        <answer>goes</answer>
+        <answer>doesn’t go</answer>
+        <answer>go</answer>
+        <answer>does</answer>
+        <correct>go</correct>
+    </item>
+    <item>
+        <question>4. Mary … a lot last year.</question>
+        <answer>travelled</answer>
+        <answer>travels</answer>
+        <answer>travelling</answer>
+        <answer>did travel</answer>
+        <correct>travelled</correct>
+    </item>
+    <item>
+        <question>5. Mum … any gifts yesterday.</question>
+        <answer>brought not</answer>
+        <answer>didn’t bring</answer>
+        <answer>doesn’t bring</answer>
+        <answer>didn’t brought</answer>
+        <correct>didn’t bring</correct>
+    </item>
+    <item>
+        <question>6. Where … this kitten?</question>
+        <answer>did you find</answer>
+        <answer>you did find</answer>
+        <answer>found you</answer>
+        <answer>did you found</answer>
+        <correct>did you find</correct>
+    </item>
+    <item>
+        <question>7. What flat … in ? </question>
+        <answer>did she lived</answer>
+        <answer>does she live</answer>
+        <answer>did she lives</answer>
+        <answer>does she lived</answer>
+        <correct>does she live</correct>
+    </item>
+    <item>
+        <question>8. Ann … at home last Sunday, she went to a party.</question>
+        <answer>didn’t stayed</answer>
+        <answer>didn’t stays</answer>
+        <answer>didn’t stay</answer>
+        <answer>did stay not</answer>
+        <correct>didn’t stay</correct>
+    </item>
+    <item>
+        <question>9. How is Mary? … her on Monday?</question>
+        <answer>was you see</answer>
+        <answer>did you see</answer>
+        <answer>do you see</answer>
+        <answer>are you see</answer>
+        <correct>did you see</correct>
+    </item>
+    <item>
+        <question>10. My friend and I … to read English books.</question>
+        <answer>like</answer>
+        <answer>likes</answer>
+        <answer>doesn’t like</answer>
+        <answer>didn’t liked</answer>
+        <correct>like</correct>
+    </item>
+</items>

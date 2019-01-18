@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. They … a real tiger in the zoo.</question>
+        <answer>have saw</answer>
+        <answer>have seen</answer>
+        <answer>has saw</answer>
+        <answer>has seen</answer>
+        <correct>have seen</correct>
+    </item>
+    <item>
+        <question>2. When … this wonderful hat?</question>
+        <answer>did you buy</answer>
+        <answer>did you bought</answer>
+        <answer>have you bought</answer>
+        <answer>have you buy</answer>
+        <correct>did you buy</correct>
+    </item>
+    <item>
+        <question>3. Mary … a lot of mistakes in her test.</question>
+        <answer>have make</answer>
+        <answer>has make</answer>
+        <answer>have made</answer>
+        <answer>has made</answer>
+        <correct>has made</correct>
+    </item>
+    <item>
+        <question>4. What … at school yesterday? </question>
+        <answer>did you do</answer>
+        <answer>have you done</answer>
+        <answer>did you</answer>
+        <answer>have you do</answer>
+        <correct>did you do</correct>
+    </item>
+    <item>
+        <question>5. They … their homework on time.</question>
+        <answer>have usually done</answer>
+        <answer>have done usually</answer>
+        <answer>usually do</answer>
+        <answer>do usually</answer>
+        <correct>usually do</correct>
+    </item>
+    <item>
+        <question>6. … to many countries of the world? </question>
+        <answer>was Andrea</answer>
+        <answer>has Andrea been</answer>
+        <answer>have Andrea been</answer>
+        <answer>has Andrea be</answer>
+        <correct>has Andrea been</correct>
+    </item>
+    <item>
+        <question>7. … that programme on TV today?</question>
+        <answer>did you watch</answer>
+        <answer>did watch you</answer>
+        <answer>have you watched</answer>
+        <answer>have watched you</answer>
+        <correct>have you watched</correct>
+    </item>
+    <item>
+        <question>8. Where … all this time?</question>
+        <answer>did you be</answer>
+        <answer>you were</answer>
+        <answer>have you been</answer>
+        <answer>you have been</answer>
+        <correct>have you been</correct>
+    </item>
+    <item>
+        <question>9. I … such tall buildings as in New York.</question>
+        <answer>never saw</answer>
+        <answer>never did see</answer>
+        <answer>never have seen</answer>
+        <answer>have never seen</answer>
+        <correct>have never seen</correct>
+    </item>
+    <item>
+        <question>10. Mr. Jones … all of us to his birthday party.</question>
+        <answer>has invite</answer>
+        <answer>has invited</answer>
+        <answer>have invite</answer>
+        <answer>have invited</answer>
+        <correct>Has invited</correct>
+    </item>
+</items>
