@@ -4,7 +4,7 @@
 
 
 
-###### A very extra awful and old pics of tests on java(without using kotlin) 
+###### Very extra awful and old pics of tests on java(without using kotlin) 
 ######  but I dont wanna make another pics cuz are the same
 ![main](https://pp.userapi.com/c846120/v846120443/17ebea/2YZ8HA_Ucag.jpg)
 
