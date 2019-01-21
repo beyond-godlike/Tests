@@ -5,6 +5,7 @@ import android.os.Bundle
 import com.example.dia.tests.R
 import android.widget.ArrayAdapter
 import android.content.Intent
+import android.util.Log
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ListView
@@ -44,6 +45,8 @@ class MainActivity : AppCompatActivity() {
 
         listView.onItemClickListener = AdapterView.OnItemClickListener { adapterView, view, position, id ->
             val intent = Intent(this@MainActivity, TestActivity::class.java)
+            Log.d("dddd", docNames?.get(position).toString())
+            intent.putExtra("value", docNames?.get(position).toString())
             startActivity(intent)
         }
     }
