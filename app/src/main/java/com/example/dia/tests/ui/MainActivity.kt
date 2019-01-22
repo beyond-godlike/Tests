@@ -20,7 +20,8 @@ class MainActivity : AppCompatActivity() {
         "Verbs 2",
         "Present Perfect or Past Simple",
         "Present Simple or Past Simple",
-        "Present Simple or Present Continious"
+        "Present Simple or Present Continious",
+        "Past Simple"
     )
 
     val docNames = arrayOf(
@@ -30,7 +31,8 @@ class MainActivity : AppCompatActivity() {
         "v1.xml",
         "presPerfOrPastSimple.xml",
         "presSimpleOrPsatSimple.xml",
-        "presSimpleOrPresContinious.xml"
+        "presSimpleOrPresContinious.xml",
+        "V2.xml"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {

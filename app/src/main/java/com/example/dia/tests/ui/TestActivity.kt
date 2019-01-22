@@ -89,11 +89,7 @@ class TestActivity : AppCompatActivity() {
         pressedButtonId = id
         pressed = true
 
-        // lock buttons
-        buttonAnswer1.isClickable = false
-        buttonAnswer2.isClickable = false
-        buttonAnswer3.isClickable = false
-        buttonAnswer4.isClickable = false
+        lockButtons()
     }
 
     private fun colorButtons(id: Int)
@@ -150,7 +146,7 @@ class TestActivity : AppCompatActivity() {
     }
 
     private fun loadQuestionsIntoButtons() {
-        if((presenter!!.itemList!!.size - 1) > counter) {
+        if((presenter!!.itemList!!.size - 1) >= counter) {
             // refresh button colors
             colorClearButtons()
 
@@ -172,6 +168,13 @@ class TestActivity : AppCompatActivity() {
             ended = true
         }
     }
+
+    private fun lockButtons() {
+        buttonAnswer1.isClickable = false
+        buttonAnswer2.isClickable = false
+        buttonAnswer3.isClickable = false
+        buttonAnswer4.isClickable = false
+    }
     private fun loadNextQuestion() {
         // unlock buttons if was pressed
         if(pressed) {
@@ -192,7 +195,7 @@ class TestActivity : AppCompatActivity() {
         //if (presenter!!.totalQuestions != currentQuestion)
         //Log.d("ssss", presenter!!.itemList!!.size.toString())
         //Log.d("ssss", counter.toString())
-        if((presenter!!.itemList!!.size - 1) > counter)
+        if((presenter!!.itemList!!.size - 1) >= counter)
         {
             counter++
             loadQuestionsIntoButtons()
@@ -236,13 +239,8 @@ class TestActivity : AppCompatActivity() {
         loadQuestionsIntoButtons()
         if(pressed) // emit click
         {
-            when(pressedButtonId)
-            {
-                buttonAnswer1.id -> buttonAnswer1.post { buttonAnswer1.performClick() }
-                buttonAnswer2.id -> buttonAnswer2.post { buttonAnswer2.performClick() }
-                buttonAnswer3.id -> buttonAnswer3.post { buttonAnswer3.performClick() }
-                buttonAnswer4.id -> buttonAnswer4.post { buttonAnswer4.performClick() }
-            }
+            lockButtons()
+            colorButtons(pressedButtonId)
         }
 
     }

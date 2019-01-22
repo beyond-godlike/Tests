@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <question>1. I ... at home yesterday.</question>
+        <answer>wased</answer>
+        <answer>was</answer>
+        <answer>were</answer>
+        <answer>wered</answer>
+        <correct>was</correct>
+    </item>
+    <item>
+        <question>2. I ... my classmates last sunday.</question>
+        <answer>beat</answer>
+        <answer>beaten</answer>
+        <answer>beated</answer>
+        <answer>beatened</answer>
+        <correct>beat</correct>
+    </item>
+	<item>
+        <question>3. Anna ... angry last monday.</question>
+        <answer>becamed</answer>
+        <answer>becomed</answer>
+        <answer>become</answer>
+        <answer>became</answer>
+        <correct>became</correct>
+    </item>
+    <item>
+        <question>4. I ... studying after my school classes.</question>
+        <answer>begin</answer>
+        <answer>beginned</answer>
+        <answer>began</answer>
+        <answer>begun</answer>
+        <correct>began</correct>
+    </item>
+	<item>
+        <question>5. My parrot ... me yesterday.</question>
+        <answer>bit</answer>
+        <answer>bite</answer>
+        <answer>bited</answer>
+        <answer>bitted</answer>
+        <correct>bit</correct>
+    </item>
+    <item>
+        <question>6. He ... my arm(hand) yesterday.</question>
+        <answer>break</answer>
+        <answer>broke</answer>
+        <answer>broken</answer>
+        <answer>broked</answer>
+        <correct>broke</correct>
+    </item>
+	<item>
+        <question>7. Daniel ... a gun to school two weeks ago.</question>
+        <answer>bringed</answer>
+        <answer>brought</answer>
+        <answer>bring</answer>
+        <answer>broughted</answer>
+        <correct>brought</correct>
+    </item>
+    <item>
+        <question>8. Mary ... a house last year.</question>
+        <answer>builted</answer>
+        <answer>build</answer>
+        <answer>built</answer>
+        <answer>builded</answer>
+        <correct>built</correct>
+    </item>
+	<item>
+        <question>9. I ... very angry when my friend ... enemies.</question>
+        <answer>became/fed</answer>
+        <answer>became/feed</answer>
+        <answer>become/feed</answer>
+        <answer>become/fed</answer>
+        <correct>became/fed</correct>
+    </item>
+    <item>
+        <question>10. My friend ... an account yesterday.</question>
+        <answer>bought</answer>
+        <answer>buy</answer>
+        <answer>buyed</answer>
+        <answer>boughted</answer>
+        <correct>bought</correct>
+    </item>
+	<item>
+        <question>11. I ... a cold last sunday.</question>
+        <answer>catch</answer>
+        <answer>caught</answer>
+        <answer>catched</answer>
+        <answer>caughed</answer>
+        <correct>caught</correct>
+    </item>
+    <item>
+        <question>12. Ann ... her homework and ... five yesterday.</question>
+        <answer>do/get</answer>
+        <answer>did/got</answer>
+        <answer>did/get</answer>
+        <answer>do/got</answer>
+        <correct>did/got</correct>
+    </item>
+	<item>
+        <question>13. Yesterday this house ... a lot.</question>
+        <answer>cost</answer>
+        <answer>costed</answer>
+        <answer>costs</answer>
+        <answer>cust</answer>
+        <correct>cost</correct>
+    </item>
+    <item>
+        <question>14. My cat ... home very wet after the rain yesterday.</question>
+        <answer>come</answer>
+        <answer>comed</answer>
+        <answer>camed</answer>
+        <answer>came</answer>
+        <correct>came</correct>
+    </item>
+	<item>
+        <question>15. I ... my fingers with a sharp knife two days ago.</question>
+        <answer>cutten</answer>
+        <answer>cutted</answer>
+        <answer>cut</answer>
+        <answer>cuttened</answer>
+        <correct>cut</correct>
+    </item>
+    <item>
+        <question>16. He ... my sandwich after lunch.</question>
+        <answer>eat</answer>
+        <answer>eaten</answer>
+        <answer>ate</answer>
+        <answer>eated</answer>
+        <correct>ate</correct>
+    </item>
+	<item>
+        <question>17. Den ... bad yesterday.</question>
+        <answer>felted</answer>
+        <answer>felt</answer>
+        <answer>feel</answer>
+        <answer>feeled</answer>
+        <correct>felt</correct>
+    </item>
+    <item>
+        <question>18. I ... two small cats under the chair yesterday.</question>
+        <answer>found</answer>
+        <answer>find</answer>
+        <answer>finded</answer>
+        <answer>founded</answer>
+        <correct>found</correct>
+    </item>
+	<item>
+        <question>19. I ... to do my homework last week.</question>
+        <answer>forget</answer>
+        <answer>forgot</answer>
+        <answer>forgotten</answer>
+        <answer>forgetted</answer>
+        <correct>forgot</correct>
+    </item>
+    <item>
+        <question>20. I ... all books at home last monday.</question>
+        <answer>left</answer>
+        <answer>leave</answer>
+        <answer>leaved</answer>
+        <answer>lefted</answer>
+        <correct>left</correct>
+    </item>
+</items>
