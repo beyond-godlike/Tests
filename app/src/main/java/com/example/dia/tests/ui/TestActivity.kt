@@ -150,7 +150,7 @@ class TestActivity : AppCompatActivity() {
     }
 
     private fun loadQuestionsIntoButtons() {
-        if(!ended) {
+        if((presenter!!.itemList!!.size - 1) > counter) {
             // refresh button colors
             colorClearButtons()
 
