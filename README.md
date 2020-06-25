@@ -1,7 +1,5 @@
 # Tests
 
-## An example for MVP &amp; Kotlin
-
 
 
 ###### Very extra awful and old pics of tests on java(without using kotlin) 
